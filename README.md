@@ -1,7 +1,8 @@
+
 <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeetkumardev&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetkumardev" /> </p>
+<p align="left"> <img src="C:\Users\ranjeet kumar\Downloads\Yellow & Black Simple Profile LinkedIn Banner.png" alt="ranjeetkumardev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjeetkumardev" alt="ranjeetkumardev" /></a> </p>
 
