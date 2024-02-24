@@ -1,8 +1,6 @@
-
+<p align="left"> <img src="https://github.com/Ranjeetkumardev/Ranjeetkumardev/blob/main/Profile-banner.png" alt="ranjeetkumardev" /> </p>
 <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://github.com/Ranjeetkumardev/Ranjeetkumardev/blob/main/Profile-banner.png" alt="ranjeetkumardev" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ranjeetkumardev" alt="ranjeetkumardev" /></a> </p>
 
