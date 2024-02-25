@@ -1,5 +1,11 @@
 <p align="left"> <img src="https://github.com/Ranjeetkumardev/Ranjeetkumardev/blob/main/Profile-banner.png" alt="ranjeetkumardev" /> </p>
- <h3 align="center">A passionate frontend developer from Chandigarh, Punjab (India)</h3>
+ <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
+<h3 align="center">A passionate frontend developer from Chandigarh, Punjab (India)</h3>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeetkumardev&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetkumardev" /> </p>
+
+- 🔭 I’m currently working on [Namaste-Youtube](https://namaste-youtub-app.netlify.app/)
+
 - 🌱 I’m currently learning **Next.js and React Native**
 
 - 👯 I’m looking to collaborate on [NetFlixGPT](https://netflixgpts.netlify.app/)
@@ -31,6 +37,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeetkumardev&show_icons=true&locale=en" alt="ranjeetkumardev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetkumardev&" alt="ranjeetkumardev" /></p>
+
+
 
 
 
