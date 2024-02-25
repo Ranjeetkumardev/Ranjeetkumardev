@@ -1,8 +1,6 @@
 <p align="left"> <img src="https://github.com/Ranjeetkumardev/Ranjeetkumardev/blob/main/Profile-banner.png" alt="ranjeetkumardev" /> </p>
- <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
+  <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
 <h3 align="center">A passionate frontend developer from Chandigarh, Punjab (India)</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ranjeetkumardev&label=Profile%20views&color=0e75b6&style=flat" alt="ranjeetkumardev" /> </p>
 
 - 🔭 I’m currently working on [Namaste-Youtube](https://namaste-youtub-app.netlify.app/)
 
@@ -18,7 +16,7 @@
 
 - 📫 How to reach me **rkdev842@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1ry_BTY0n9MesF5UbSlmF64r9Yl-Ya3V8](https://drive.google.com/drive/folders/1ry_BTY0n9MesF5UbSlmF64r9Yl-Ya3V8)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1WxZlgMla-nUiF5TeHGpilOVc5C-3YcbP/view?usp=sharing](https://drive.google.com/file/d/1WxZlgMla-nUiF5TeHGpilOVc5C-3YcbP/view?usp=sharing)
 
 - ⚡ Fun fact **Part-Time Shayar**
 
@@ -37,6 +35,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeetkumardev&show_icons=true&locale=en" alt="ranjeetkumardev" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetkumardev&" alt="ranjeetkumardev" /></p>
+
 
 
 
