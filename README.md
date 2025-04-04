@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **rkdev842@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Z7B3h2COfKIY6VisJfW6MJqGCZ2rfjLp/view?usp=sharing](https://drive.google.com/file/d/1Z7B3h2COfKIY6VisJfW6MJqGCZ2rfjLp/view?usp=sharing)
+- 📄 Know about my experiences 
 
 - ⚡ Fun fact **I think i'm a part time write**
 
