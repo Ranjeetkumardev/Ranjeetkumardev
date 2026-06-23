@@ -1,49 +1,154 @@
 <p align="left"> <img src="https://github.com/Ranjeetkumardev/Namste_react/assets/70418158/def20784-edc8-4b6e-89a0-b9206372a582" alt="ranjeetkumardev" /> </p>
- <h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
-<h3 align="center">A passionate junior Mern / React developer from New Delhi (India)</h3>
- 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<h1 align="center">Hi 👋, I'm Ranjeet Kumar</h1>
 
-- 🔭 I’m currently working on [Mern App](https://backend-v1wu.onrender.com/)
+<h3 align="center">
+Backend Engineer • Microservices • Distributed Systems • AI Applications
+</h3>
 
-- 🌱 I’m currently learning **Nextjs and React Native**
-
-- 👯 I’m looking to collaborate on [Mini Swiggy](https://swiggyflix.netlify.app/)
-
-- 🤝 I’m looking for help with [NetFlixGPT](https://roaring-bonbon-b66aa5.netlify.app/)
-
-- 👨‍💻 All of my projects are available at [https://devkumar-portfolio.netlify.app/](https://devkumar-portfolio.netlify.app/)
-
-- 📝 I regularly write articles on [https://devkumar-portfolio.netlify.app/](https://devkumar-portfolio.netlify.app/)
-
-- 💬 Ask me about **React js,Node js, Express js and MongoDB**
-
-- 📫 How to reach me **rkdev842@gmail.com**
-
-- 📄 Know about my experiences 
-
-- ⚡ Fun fact **I think i'm a part time write**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/ranjeet-kumar-16a6111b4/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ranjeet-kumar-16a6111b4/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/masterrazz363" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="masterrazz363" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/masterrazz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="masterrazz/" height="30" width="40" /></a>
+<p align="center">
+Building scalable backend systems, secure enterprise applications, and AI-powered solutions.
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ranjeetkumardev&show_icons=true&locale=en&layout=compact" alt="ranjeetkumardev" /></p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ranjeetkumardev&show_icons=true&locale=en" alt="ranjeetkumardev" /></p>
+- 💼 Backend Developer with **2.8+ years of experience**
+- 🏗️ Designing and developing **Microservice Architectures**
+- ⚡ Experienced in **Node.js, Express.js, MongoDB, Redis, RabbitMQ**
+- 🔐 Built **Defense-grade Secure Platforms** with encryption and role-based access control
+- 🌐 Developing real-time systems using **WebSockets**
+- ☁️ Working with **Docker, Nginx, AWS (EC2, S3)** and CI/CD
+- 🤖 Exploring **Generative AI**, **RAG Pipelines**, **LangChain**, **FastAPI**, and **Ollama**
+- 📚 Solving Data Structures & Algorithms regularly
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ranjeetkumardev&" alt="ranjeetkumardev" /></p>
+---
 
+## 🛠️ Tech Stack
 
+### Backend
 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-13AA52?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 
+### Frontend
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### DevOps & Cloud
 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+### AI & Modern Technologies
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge)
+
+---
+
+## 💼 Professional Experience Highlights
+
+### Defense Security Platform
+- Designed scalable microservice architecture
+- Implemented secure authentication and RBAC
+- Built subsystem heartbeat monitoring
+- Developed real-time WebSocket communication
+- Integrated encryption-based secure data exchange
+
+### Learning Management System (LMS)
+- Developed Assignment Management APIs
+- Implemented Role-Based Access Control
+- Optimized database queries and pagination
+- Designed scalable backend architecture
+
+### AI-Powered Applications
+- Built Retrieval Augmented Generation (RAG) systems
+- Integrated Ollama-hosted LLMs
+- Developed FastAPI-based AI services
+- Experimented with LangChain workflows
+
+---
+
+## 🏆 Key Skills
+
+```text
+Microservices Architecture
+Distributed Systems
+REST APIs
+WebSockets
+System Design
+Authentication & Authorization
+JWT Security
+Redis Caching
+RabbitMQ Messaging
+MongoDB Optimization
+Dockerization
+CI/CD
+AWS Deployment
+AI Integrations
+```
+
+---
+
+## 📈 GitHub Analytics
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Ranjeetkumardev&show_icons=true&theme=github_dark&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ranjeetkumardev&theme=github-dark-blue&hide_border=true" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjeetkumardev&layout=compact&theme=github_dark&hide_border=true" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/ranjeet-kumar-16a6111b4">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:rkdev842@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/masterrazz/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+
+<a href="https://www.hackerrank.com/masterrazz363">
+<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+</p>
+
+---
+
+### Current Focus
+
+```yaml
+Learning:
+  - System Design
+  - Distributed Systems
+  - Kubernetes
+  - AI Engineering
+
+Building:
+  - Secure Enterprise Platforms
+  - Microservice Applications
+  - AI Powered Products
+```
 
